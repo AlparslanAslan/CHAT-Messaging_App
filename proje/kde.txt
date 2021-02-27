@@ -1,0 +1,9 @@
+REG kde 2020
+NIC kde 2020
+OLS
+GIR ubuntu
+OKL ubuntu
+OAC plasma
+GIR plasma
+OLS
+SIL plasma
