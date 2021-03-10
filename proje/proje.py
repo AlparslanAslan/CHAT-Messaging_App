@@ -2,7 +2,6 @@ import socket
 import threading
 import queue
 import time
-#loggerThread işlevsiz kaldı o yüzden çağırmadım.Tekrar inceleyeceğim.
 class loggerThread(threading.Thread):
     def __init__(self,loggerQueue,conn,addr):
         threading.Thread.__init__(self)
